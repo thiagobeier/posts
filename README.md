@@ -13,7 +13,7 @@ New and all Posts from my blog.
 
 **Posts in this blog are provided “AS IS” with no warranties, and confers no rights.**
 
-1 - [Microsoft Teams Breakout Rooms (Preview) Ebook](https://thiagobeierblog.blob.core.windows.net/posts/PDF/Microsoft%20Teams%20Breakout%20Rooms.pdf)
+1 - [Microsoft Teams Breakout Rooms (GA) Ebook](https://thiagobeierblog.blob.core.windows.net/posts/PDF/Microsoft%20Teams%20Breakout%20Rooms.pdf)
 
 
 **Feedback**
