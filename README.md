@@ -15,6 +15,8 @@ New and all Posts from my blog.
 
 1 - [Microsoft Teams Breakout Rooms (GA) Ebook](https://thiagobeierblog.blob.core.windows.net/posts/PDF/Microsoft%20Teams%20Breakout%20Rooms.pdf)
 
+2 - [Microsoft Teams Call Queue Dashboard and Power BI Ebook](https://thiagobeierblog.blob.core.windows.net/posts/PDF/Microsoft%20Teams%20CQD.pdf)
+
 
 **Feedback**
 
