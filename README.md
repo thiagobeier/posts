@@ -1,4 +1,4 @@
-Blog Posts
+Blog Posts - Ebooks
 ==================
 
 New and all Posts from my blog.
@@ -11,7 +11,7 @@ New and all Posts from my blog.
 
 -   Within this repository there will be lab guides in PDF format, PowerShell scripts, VBS scripts and customization files such as JSON files, XML files and so on and so forth.
 
-**Posts in this blog are provided ìAS ISî with no warranties, and confers no rights.**
+**Posts in this blog are provided ‚ÄúAS IS‚Äù with no warranties, and confers no rights.**
 
 1 - [Microsoft Teams Breakout Rooms (GA) Ebook](https://thiagobeierblog.blob.core.windows.net/posts/PDF/Microsoft%20Teams%20Breakout%20Rooms.pdf)
 
@@ -30,7 +30,7 @@ Regards,
 
 **Thiago Beier** https://thiagobeier.wordpress.com
 
-**Copyright © 2020 Thiago Beier Blog**
+**Copyright ¬© 2020 Thiago Beier Blog**
 
 <p align="center">
   <a href="https://github.com/thiagobeier?tab=followers">
